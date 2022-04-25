@@ -1,7 +1,7 @@
 import React from "react";
-import Featured from "../components/featured";
-import List from "../components/list";
-import Navbar from "../components/navbar";
+import Featured from "../../components/featured";
+import List from "../../components/list";
+import Navbar from "../../components/navbar";
 
 import "./styles.scss";
 
