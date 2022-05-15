@@ -240,7 +240,7 @@ export default function Home() {
       ratione necessitatibus dicta debitis porro dolorum? Itaque, iure impedit?
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum ut
       maiores recusandae non dignissimos dolores magni nostrum sint, doloribus
-      ex autem ratione necessitatibus dicta debitis porro dolorum? Itaque, iure
+      ex autem ratione necessitatibus dicta debitis porro dolorum? iure
       impedit?
     </div>
   );
